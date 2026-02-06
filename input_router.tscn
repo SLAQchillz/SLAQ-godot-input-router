@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://or67dgpw2u3e"]
+
+[ext_resource type="Script" uid="uid://bd7q4dqn24s1y" path="res://addons/InputRouter/input_router.gd" id="1_668i0"]
+
+[node name="InputRouter" type="Node"]
+script = ExtResource("1_668i0")
